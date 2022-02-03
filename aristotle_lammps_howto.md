@@ -140,7 +140,7 @@ do the following
 * `cd lammps_tutorial_1`
 * `cp -r ~/lammps/examples/melt/ .` --> this will copy the entire melt folder from the lammps examples to your lammps_tutorial_1 folder
 * `cd melt`
-* ~/Lammps_tutorials/lmp_aristotle -i in.melt`
+* ~/Lammps_tutorials/lmp_serial -i in.melt`
 
 **Congratulations! you run the first lammps simulation**
 
